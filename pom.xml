@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.eyupkaan</groupId>
-    <artifactId>springboot-trainin-ma</artifactId>
+    <artifactId>springboot-training-ma</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-trainin-ma</name>
     <description>springboot-trainin-ma</description>
